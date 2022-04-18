@@ -9,7 +9,7 @@
 - 经济学: 研究社会如何管理自己的稀缺资源
   Economics: the study of how society manages its scarce resources
 
-- [More](ch01/extend/00-经济学研究什么.md)
+- [More](ch01/content/00-经济学研究什么.md)
 
 ## 人们如何做出决策？
 
@@ -23,7 +23,7 @@ PRINCIPLE #1: People Face Tradeoffs
   Equality: the property of distributing economic prosperity uniformly among society’s members
   （控制污染会使收入下降）
 
-- [More](ch01/extend/01-People-Face-Tradeoffs.md)
+- [More](ch01/content/01-People-Face-Tradeoffs.md)
 
 ### 原理 2: 某种东西的成本是为了得到它所放弃的东西
 
@@ -32,7 +32,7 @@ PRINCIPLE #2: The Cost of Something Is What You Give Up to Get It
 - 机会成本：是为了得到这种东西所放弃的东西
   opportunity cost： whatever must be given up to obtain some item.
 
-- [More](ch01/extend/02-Opportunity-Cost.md)
+- [More](ch01/content/02-Opportunity-Cost.md)
 
 ### 原理 3: 理性人考虑边际量
 
@@ -46,7 +46,7 @@ PRINCIPLE #3: Rational People Think at the Margin
   （人们对于任何一种物品的支付意愿基于获得一单位的边界收益）
   （当且仅当边界收益大于边界成本时，理性人就会行动)
 
-- [More](ch01/extend/03-Margin.md)
+- [More](ch01/content/03-Margin.md)
 
 ### 原理 4: 人们会对激励做出反应
 
@@ -57,7 +57,7 @@ PRINCIPLE #4: People Respond to Incentives
   （有人认为安全带减少了谨慎开车的收益，导致车祸增加，减少了死亡人数，却增加了发生次数）
   （05-08 年石油价格上涨与强劲的全球以及中国的增长有关，08 开始的金融危机又使得价格下跌）
 
-- [More](ch01/extend/04-Incentive.md)
+- [More](ch01/content/04-Incentive.md)
 
 ## 人们如何相互影响？
 
@@ -66,7 +66,7 @@ PRINCIPLE #4: People Respond to Incentives
 PRINCIPLE #5: Trade Can Make Everyone Better Off
 （经济中每个家庭都在与其他竞争）
 
-- [More](ch01/extend/05-Trade.md)
+- [More](ch01/content/05-Trade.md)
 
 ### 原理 6: 市场通常是组织经济活动的一种好方法
 
@@ -83,7 +83,7 @@ PRINCIPLE #6: Markets Are Usually A Good Way to Organize Economic Activity
   - 在许多情况下，价格引导自利的家庭与企业做出使社会经济福利最大化的决策
     （政府税收扭曲了价格，也扭曲了家庭和企业的决策）
 
-- [More](ch01/extend/06-Market.md)
+- [More](ch01/content/06-Market.md)
 
 ### 原理 7: 政府有时可以改善市场结果
 
@@ -105,7 +105,7 @@ PRINCIPLE #7: Governments Can Sometimes Improve Market Outcomes
   - 市场势力：单个买者或卖者有能显著影响市场价格的能力（比如，垄断）
     Market power：the ability of a single economic actor (or small group of actors) to have a substantial influence on market price (e.g. monopoly)
 
-- [More](ch01/extend/07-Government.md)
+- [More](ch01/content/07-Government.md)
 
 ## 整体经济如何运行？
 
@@ -119,7 +119,7 @@ PRINCIPLE #8: A Country’s Standard of Living Depends on Its Ability to Produce
   （生产率取决于设备，劳动者的技能以及可用的技术）
   （其它因素（比如，工会组织，国外的竞争）对于生活水平的影响远远小于生产率）
 
-- [More](ch01/extend/08-Life-Depends-on-Productivity.md)
+- [More](ch01/content/08-Life-Depends-on-Productivity.md)
 
 ### 原理 9: 当政府发行了过多货币时，物价上升
 
@@ -137,7 +137,7 @@ PRINCIPLE #10: Society Faces a Short-run Tradeoff Between Inflation and Unemploy
 - 经济周期：就业和生产等经济活动的波动
   Business cycle: fluctuations in economic activity, such as employment and production.
 
-- [More](ch01/extend/10-Tradeoff-Between-Inflation-and-Unemployment.md)
+- [More](ch01/content/10-Tradeoff-Between-Inflation-and-Unemployment.md)
 
 ### Tips
 
@@ -146,13 +146,3 @@ PRINCIPLE #10: Society Faces a Short-run Tradeoff Between Inflation and Unemploy
 - 货币量的增长是通货膨胀的最终根源
 - 社会面临着通货膨胀与失业之间的短期权衡取舍
 - 食物产生外部性的几率最小
-
-## extension
-
-### read
-
-- [The Dismal Science? Hardly!](ch01/article/why-you-should-learn-economic.md)
-
-## exercise
-
-- [something I view](ch01/example/dz-thought.md)
