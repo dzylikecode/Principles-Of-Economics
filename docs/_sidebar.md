@@ -1,1 +1,8 @@
 - [前言](README.md)
+- 十大经济学原理
+  - summary
+    - [basic frame](ch01/README.md)
+  - reading
+    - [The Dismal Science? Hardly!](ch01/article/why-you-should-learn-economic.md)
+  - exercise
+    - [something I view](ch01/example/dz-thought.md)

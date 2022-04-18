@@ -3,7 +3,7 @@ title: README
 date: 2022-04-08 10:53
 ---
 
-# 经济学原理
+# 经济学原理笔记
 
 - [answer](http://mfk.yeah2.com/?topic/2277935/)
 - environment: 第五版
@@ -73,7 +73,11 @@ date: 2022-04-08 10:53
 
 ## suggestion
 
+<<<<<<< HEAD
 - [如何学习](/docs/article/how-to-engage-in-learn.md)
+=======
+- [如何学习](article/how-to-engage-in-learn.md)
+>>>>>>> local-show
 
 ## reference
 
